@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# This is our first script.
+# This is our second script.
 
 echo 'Hello World!'
